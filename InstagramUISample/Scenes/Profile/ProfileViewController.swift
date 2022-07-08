@@ -26,7 +26,7 @@ final class ProfileViewController: UIViewController {
   
   private lazy var descriptionLabel: UILabel = {
     let label = UILabel()
-    label.text = "안녕하세요~ 반값습니다. "
+    label.text = "안녕하세요~ 반갑습니다. "
     label.font = .systemFont(ofSize: 14.0, weight: .medium)
     label.numberOfLines = 0
     return label
